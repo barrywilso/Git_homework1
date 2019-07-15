@@ -1,1 +1,2 @@
 move: giants
+move: archers

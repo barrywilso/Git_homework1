@@ -1,1 +1,2 @@
 move: vampires
+move: zombies
